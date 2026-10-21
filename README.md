@@ -17,3 +17,5 @@ A Streamlit dashboard for exploring and analysing solar wind data (Python mini p
 
 ## Author
 Pranav Talekar
+Roll no 16014225097
+batch b2 AI&DS
